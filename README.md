@@ -83,12 +83,4 @@ Any use of these materials for live trading, capital management, or commercial p
 ## Final Note
 
 OpenQuant Algorithmic Trading Research is an **ongoing research effort**, not a finished product.
-The intention is to **improve understanding, robustness, and transparency** in algorithmic trading systems—while maintaining strict boundaries between public research and proprietary execution.
-
-* Tighten this language further for **grant platforms**
-* Rewrite it for **Giveth / public-goods framing**
-* Add a **`FUNDING.md`** explaining research goals
-* Create a **methodology whitepaper**
-* Review the README for **legal/regulatory safety**
-
-Just tell me where you plan to publish this next (GitHub only, grants, or fundraising page), and I’ll adapt it precisely.
+The intention is to **improve understanding, robustness, and transparency** in algorithmic trading systems, while maintaining strict boundaries between public research and proprietary execution.
